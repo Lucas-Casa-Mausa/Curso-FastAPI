@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/  
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Outros
+.DS_Store          # macOS
+Thumbs.db          # Windows
